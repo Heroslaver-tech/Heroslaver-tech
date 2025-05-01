@@ -1,9 +1,8 @@
 
-# Hello 👋 
+# Hello 👋, My name is Sebastián Peñaranda Hurtado 😊
 
-My name is Sebastián Peñaranda Hurtado, I´m from Colombia
-**Systems Engineer (in progress) | Web Developer | 3D modeler | Data Analyst **  
-📍 Cali, Colombia  
+I´m from Colombia and I'm a **Systems Engineer 🔧(in progress)| Web Developer 🧑🏼‍💻| 3D Modeler 🏠| Data Analyst 📊**  
+📌 Cali, Colombia  
 📧 sebastian.penaranda@correounivalle.edu.co  
 📱 +57 304 385 4451
 
@@ -30,7 +29,8 @@ Additionally, I’m experienced in deploying applications using **Docker-Compose
 
 ## 🌐 Languages
 
-Native Spanish and proficient English   
+Native Spanish and proficient English
+
 ---
 
 ## 🤝 Let's Connect
