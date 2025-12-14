@@ -3,7 +3,7 @@
 
 I´m from Colombia, and I'm a **Systems Engineer 🔧| Web Developer 🧑🏼‍💻**  
 📌 Cali, Colombia  
-📧 sebastian.penaranda@correounivalle.edu.co  
+📧 sebas152000@gmail.com  
 📱 +57 304 385 4451
 
 ---
