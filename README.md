@@ -1,7 +1,7 @@
 
-# Hello 👋, My name is Sebastián Peñaranda Hurtado 😊
+# Hello 👋, my name is Sebastián Peñaranda Hurtado 😊
 
-I´m from Colombia and I'm a **Systems Engineer 🔧| Web Developer 🧑🏼‍💻| 3D Modeler 🏠| Data Analyst 📊**  
+I´m from Colombia, and I'm a **Systems Engineer 🔧| Web Developer 🧑🏼‍💻**  
 📌 Cali, Colombia  
 📧 sebastian.penaranda@correounivalle.edu.co  
 📱 +57 304 385 4451
@@ -10,9 +10,9 @@ I´m from Colombia and I'm a **Systems Engineer 🔧| Web Developer 🧑🏼‍�
 
 ## 💼 About Me
 
-I am a Systems Engineering student at Universidad del Valle, with hands-on experience in the financial and academic sectors. My journey includes working as a Web Editor at Universidad del Valle and a Trainee Professional at Banco de Occidente.
+I am a Systems Engineer at Universidad del Valle, with hands-on experience in the financial and academic sectors. My journey includes working as a full-stack developer, a web editor at Universidad del Valle, and a trainee professional at Banco de Occidente.
 
-I have a strong foundation in programming (JavaScript, C++, Python) and full-stack web development, focusing on building scalable, secure, and SEO-optimized applications. My skill set includes modern frameworks and tools such as **Next.js, React.js, Django, Firebase, and Node.js**, and **RESTful API design** and database management (SQL and NoSQL).
+I have a strong foundation in programming (JavaScript, Python, and bash) and full-stack web development, with a focus on building scalable, secure, and SEO-optimized applications. My skill set includes modern frameworks and tools such as **Next.js, React.js, Django, Firebase, Express.js, and Node.js**, using **RESTful API design** and database management (SQL and NoSQL).
 
 Additionally, I’m experienced in deploying applications using **Docker-Compose, Jenkins, and Kubernetes**, and I’ve explored **3D modeling with Blender** and its web integration using **Three.js** and **React Three Fiber**.
 
@@ -20,10 +20,10 @@ Additionally, I’m experienced in deploying applications using **Docker-Compose
 
 ## 🧰 Tech Stack
 
-- **Languages:** JavaScript, C++, Python, C#, Java
+- **Languages:** JavaScript, Python, C#, C++, Kotlin
 - **Frameworks & Libraries:** Next.js, React.js, Express.js, Django, Django REST Framework, Three.js, React Three Fiber  
-- **Tools:** Firebase, PostgreSQL, JMeter, Jenkins, Docker-Compose, Kubernetes, VirtualBox, Packet Tracer
-- **Other:** Git, GitHub, Joomla!, Blender
+- **Tools:** Firebase, PostgreSQL, JMeter, Jenkins, Docker-Compose, Kubernetes, VirtualBox, Packet Tracer, Android Studio
+- **Other:** Git, GitHub, Joomla!, Blender, Unity
 
 ---
 
